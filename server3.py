@@ -27,7 +27,6 @@ import os.path
 import re
 import threading
 from datetime import timedelta, datetime
-# from itertools import izip
 from random import normalvariate, random
 from socketserver import ThreadingMixIn
 
